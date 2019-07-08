@@ -1,16 +1,14 @@
 # Skin_Lesion_Segmentation
-Skin Lesion Segmentation using Fully convolution network.
+Skin Lesion Segmentation using Multiple techniques
   
   
-The dataset is available at [here](https://www.kaggle.com/hashbanger/skin-lesion-segmentation)   
+The two datasets are available:  
+[here](https://www.kaggle.com/hashbanger/ph2-resized)and  
+[here](https://www.kaggle.com/hashbanger/ph2-resized2)  
   
-The dataset is already separated into six folders:    
-All the images are of the size **192 X 256**  
-  
-**trainx** - 2000 Lesion Images  
-**trainy** - 2000 Ground Truth Images   
-**testx** - 600 images  
-**testy** - 600 images  
-**validationx** - 150 images  
-**validationy** - 150 images  
+The dimensions of images in the first dataset is 192 x 256.  
+The dimensions of images in the first dataset is 224 x 224.  
+
+The Lesion Images have 3 channels RGB.  
+The Lesion Masks have a single channel.  
 
