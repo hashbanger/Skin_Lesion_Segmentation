@@ -12,3 +12,8 @@ The dimensions of images in the first dataset is 224 x 224.
 The Lesion Images have 3 channels RGB.  
 The Lesion Masks have a single channel.  
 
+The technique used are:  
+**FCN** (Fully Connected Convolutional Neural Network)  
+**Unet**    
+**SegNet**
+
